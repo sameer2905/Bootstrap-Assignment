@@ -1,0 +1,31 @@
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align:center;
+ }
+ 
+ #icon1{
+    padding: 10px;
+    }
+    #icon2{
+    padding: 10px;
+    }
+    #icon3{
+     padding: 10px;
+    }
+
+    ul{
+        list-style: none;
+        }
+
+    h1{
+         font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: italic;
+        text-align: center;
+    }
+     
+    
+   
